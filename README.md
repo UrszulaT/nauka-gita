@@ -1,9 +1,9 @@
 #### Nauka GITA
-Moje pierwsze repozytorium GITA
-
+### Moje pierwsze repozytorium GITA
+Nowe zmiany
 
 -x
 -y
 -z
 
-![git ]
+![git ](https://octodex.github.com/images/privateinvestocat.jpg)
