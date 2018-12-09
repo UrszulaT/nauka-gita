@@ -7,3 +7,7 @@ Nowe zmiany
 -z
 
 ![git ](https://octodex.github.com/images/privateinvestocat.jpg)
+
+**Kolejne zmiany w pliku**
+
+_Wiecej zmian_
